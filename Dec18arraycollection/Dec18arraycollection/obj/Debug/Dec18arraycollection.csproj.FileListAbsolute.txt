@@ -1,0 +1,7 @@
+D:\.net\dec18\Dec18arraycollection\Dec18arraycollection\bin\Debug\Dec18arraycollection.exe.config
+D:\.net\dec18\Dec18arraycollection\Dec18arraycollection\bin\Debug\Dec18arraycollection.exe
+D:\.net\dec18\Dec18arraycollection\Dec18arraycollection\bin\Debug\Dec18arraycollection.pdb
+D:\.net\dec18\Dec18arraycollection\Dec18arraycollection\obj\Debug\Dec18arraycollection.csproj.AssemblyReference.cache
+D:\.net\dec18\Dec18arraycollection\Dec18arraycollection\obj\Debug\Dec18arraycollection.csproj.CoreCompileInputs.cache
+D:\.net\dec18\Dec18arraycollection\Dec18arraycollection\obj\Debug\Dec18arraycollection.exe
+D:\.net\dec18\Dec18arraycollection\Dec18arraycollection\obj\Debug\Dec18arraycollection.pdb
